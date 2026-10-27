@@ -16,7 +16,9 @@ Chaque article est aussi publié ici en markdown ; la version complète et illus
 - [Chatbot hôtelier : HiJiffy, Asksuite, Duve… ou fait-pour-vous ? Le comparatif honnête (2026)](comparatif-chatbots-hotel-fait-pour-vous.md) — [lire sur souriria.com](https://souriria.com/blog/comparatif-chatbots-hotel-fait-pour-vous)
 - [Ce que Booking.com vous coûte vraiment chaque mois (et comment le calculer)](cout-booking-com-par-mois.md) — [lire sur souriria.com](https://souriria.com/blog/cout-booking-com-par-mois)
 - [21 h 47 : la demande d'estimation partie chez l'agence d'en face](demande-estimation-nuit-immobilier.md) — [lire sur souriria.com](https://souriria.com/blog/demande-estimation-nuit-immobilier)
+- [Le devis parti en 10 minutes : l'hôtel qui répond aux groupes avant ses concurrents](devis-groupe-hotel-reponse-immediate.md) — [lire sur souriria.com](https://souriria.com/blog/devis-groupe-hotel-reponse-immediate)
 - [Votre hôtel sera-t-il recommandé par ChatGPT ? Le guide de la visibilité IA (AEO)](hotel-recommande-par-chatgpt-aeo.md) — [lire sur souriria.com](https://souriria.com/blog/hotel-recommande-par-chatgpt-aeo)
+- [Réveillon complet dès novembre : le restaurant qui remplit ses fêtes pendant que les autres impriment leurs menus](menu-reveillon-restaurant-reservations.md) — [lire sur souriria.com](https://souriria.com/blog/menu-reveillon-restaurant-reservations)
 - [Booking, Airbnb, WhatsApp : le mardi où Nadia a cessé de courir après ses messages](messages-booking-airbnb-hotel.md) — [lire sur souriria.com](https://souriria.com/blog/messages-booking-airbnb-hotel)
 - [Vendredi 20 h 05 : la table de huit qui n'est jamais venue](no-show-restaurant-rappels.md) — [lire sur souriria.com](https://souriria.com/blog/no-show-restaurant-rappels)
 - [3 h 07 : l'appel que votre réception a manqué (et que Souri a décroché)](receptionniste-ia-nuit-hotel.md) — [lire sur souriria.com](https://souriria.com/blog/receptionniste-ia-nuit-hotel)
@@ -25,6 +27,7 @@ Chaque article est aussi publié ici en markdown ; la version complète et illus
 - [Vendredi 19 h : les réservations que votre restaurant perd sans le savoir](reservations-perdues-restaurant.md) — [lire sur souriria.com](https://souriria.com/blog/reservations-perdues-restaurant)
 - [La suite que personne n'avait proposée](suite-proposee-chat-hotel.md) — [lire sur souriria.com](https://souriria.com/blog/suite-proposee-chat-hotel)
 - [19 h 42 : la table d'anniversaire que le restaurant a failli perdre](table-anniversaire-restaurant.md) — [lire sur souriria.com](https://souriria.com/blog/table-anniversaire-restaurant)
+- [34 demandes de visite en un week-end : l'agence qui ne court plus après les dossiers incomplets](visites-location-agence-immobiliere.md) — [lire sur souriria.com](https://souriria.com/blog/visites-location-agence-immobiliere)
 - [WhatsApp pour les hôtels : le guide complet (2026)](whatsapp-hotel-guide-complet.md) — [lire sur souriria.com](https://souriria.com/blog/whatsapp-hotel-guide-complet)
 - [WhatsApp : le samedi où l'hôtel de Claire a cessé de perdre ses clients](whatsapp-hotel-souri.md) — [lire sur souriria.com](https://souriria.com/blog/whatsapp-hotel-souri)
 
